@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.geolykt</groupId>
     <artifactId>theomlinit</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>TheoMLInit</name>
     <description>The very first generation of Theotown modding</description>
 

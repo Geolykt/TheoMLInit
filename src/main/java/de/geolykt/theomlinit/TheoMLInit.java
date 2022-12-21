@@ -15,7 +15,7 @@ import java.util.Arrays;
 
 public class TheoMLInit {
 
-    private static final String SL_VERSION = "20221220";
+    private static final String SL_VERSION = "20221221";
     private static final String SL_JAR_REMOTE = "https://geolykt.de/maven/de/geolykt/starloader/launcher/" + SL_VERSION + "/launcher-" + SL_VERSION + "-all.jar";
     private static final String SL_JAR_LOCAL = "launcher-" + SL_VERSION + "-all.jar";
 

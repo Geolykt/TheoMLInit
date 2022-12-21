@@ -9,7 +9,7 @@ or
 
 	java -Dgame_dir=/path/to/theotown/directory -jar theomlinit-0.0.1-SNAPSHOT.jar
 
-It will automatically install the starloader-launcher version 20221220 (snapshot of
+It will automatically install the starloader-launcher version 20221221 (snapshot of
 starloader-launcher 4.X) and hook itself to be run whenever "TheoTown64" is executed.
 
 ## Requirements
